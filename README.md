@@ -63,6 +63,25 @@ The analysis demonstrates how marketplace data can be used to:
 - Analyse conversion rates and seller retention.
 - Introduce predictive modelling for marketplace pricing.
 
+  ## Analysis Results
+
+### Sell-Through Rate by Category
+
+This chart compares the percentage of sold listings across different product categories in the synthetic marketplace dataset.
+
+`category_sell_through.png`
+
+### Supporting Analysis
+
+The project also includes two summary tables:
+
+- `category_summary.csv` — category-level listing statistics and sales performance.
+- `price_band_summary.csv` — listing performance across different price ranges.
+
+These results demonstrate how marketplace data can support pricing analysis, category comparisons, and business decision-making.
+
+**Note:** All results are based on synthetic data, not actual Vinted transactions.
+
 ## Author
 
 **Tamara Yegorova**
